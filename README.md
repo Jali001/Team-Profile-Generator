@@ -66,7 +66,9 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage
 
-User should answer the prompts that appear by running the application with the node index.js command: 
+User should answer the prompts that appear by running the application with the node index.js command
+
+Link to demo video: [Team Profile Generator](https://youtu.be/uYKTXKJ4HSo)
 
 
 
