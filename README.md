@@ -3,6 +3,8 @@
 ## Description
 This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest.
 
+Use the link under the Usage Section to view the demo video for this application. 
+
 ## User Story
 
 AS A manager
@@ -12,6 +14,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
+
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
 WHEN I click on an email address in the HTML
@@ -46,7 +49,7 @@ The user should clone the repository from GitHub and download Node. This applica
 
 ## Usage
 
-User should answer the prompts that appear by runnin 
+User should answer the prompts that appear by running the application with the node index.js command: 
 
 
 
