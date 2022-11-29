@@ -79,7 +79,7 @@ Link to demo video: [Team Profile Generator](https://youtu.be/uYKTXKJ4HSo)
 
 ## Tests
 
-User should run npm test
+User should run npm start test after downloading the approperiate npm packages 
 
 ## Contributing 
 
